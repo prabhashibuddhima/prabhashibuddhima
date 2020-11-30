@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Prabhashi Buddhima. I'm a Software Engineer and my main stream is cross platform mobile app development.
+
+🔭 I'm currently working as a Software Engineer - Mobile
+🌱 I'm currently learning Flutter,PHP, nodejs ... so many things <3
+
+
+
+
