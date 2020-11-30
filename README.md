@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Prabhashi Buddhima
 
 <!--
 **prabhashibuddhima/prabhashibuddhima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Prabhashi Buddhima. I'm a Software Engineer and my main stream is cross platform mobile app development.
+I'm a Software Engineer and my main stream is cross platform mobile app development.
 
 🔭 I'm currently working as a Software Engineer - Mobile
 🌱 I'm currently learning Flutter,PHP, nodejs ... so many things <3
