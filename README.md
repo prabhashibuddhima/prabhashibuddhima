@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Software Engineer and my main stream is cross platform mobile app development.
+I'm a Software Engineer and here are my contributes.
 
-🔭 I'm currently working as a Software Engineer - Mobile
-🌱 I'm currently learning Flutter,PHP, nodejs ... so many things <3
+🔭 I'm currently working as a Software Engineer 
 
 
 
